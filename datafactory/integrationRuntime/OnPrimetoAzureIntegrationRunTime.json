@@ -1,0 +1,7 @@
+{
+	"name": "OnPrimetoAzureIntegrationRunTime",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Hope"
+	}
+}

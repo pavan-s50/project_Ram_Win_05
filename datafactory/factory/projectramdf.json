@@ -1,0 +1,9 @@
+{
+	"name": "projectramdf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce8c3c98-c201-4565-9f74-83a122a09231",
+		"tenantId": "1b176099-5312-48c0-9446-c988d5e1ecdc"
+	}
+}
